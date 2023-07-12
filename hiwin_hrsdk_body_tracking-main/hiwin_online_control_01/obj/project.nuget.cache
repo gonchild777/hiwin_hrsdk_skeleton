@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0HPpNMr1cAYZQBM9E8FzXRCPsBTrzMTTw4Oq9sdVF9xqOMwW0Su2ZzSI1VauHuC1XqeO1FQwMLG+b982ZNd7bw==",
+  "success": true,
+  "projectFilePath": "G:\\我的雲端硬碟\\建築研究所-博士\\01 研究專案\\18 RA610小上銀\\hiwin_hrsdk_body_tracking-main\\hiwin_online_control_01\\hiwin_online_control_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PCUSER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\PCUSER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\PCUSER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\PCUSER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
